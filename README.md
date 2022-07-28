@@ -1,1 +1,1 @@
-# Fast-Inverse-Square-Root--multiple-languages
+# Fast-Inverse-Square-Root-multiple-languages
